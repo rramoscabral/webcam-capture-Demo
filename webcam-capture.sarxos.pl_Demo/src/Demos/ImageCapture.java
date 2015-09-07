@@ -21,7 +21,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ti.grupojrc
+ * @author rramoscabral
  */
 public class ImageCapture extends javax.swing.JFrame {
 
